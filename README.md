@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am trying to became a writer of fantasy books
 
+comitando pela primeira vez por linha de comando
